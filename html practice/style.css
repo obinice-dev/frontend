@@ -1,0 +1,24 @@
+.border {
+    border: solid 3px red;
+    /* display: inline; */
+    padding-left: 10px;
+    background-color: aqua;
+  font-size: 12px;
+   margin-right:1080px;
+   border-radius: 8px;
+}
+
+.nom {
+    padding: px;
+    background-position: 40px;
+    margin-right: 1055px;
+}
+
+.obi {
+    margin-right:1040px;
+    padding-right: 5px;
+    padding-left: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}

@@ -1,0 +1,62 @@
+.logo {
+    height: 50px;
+    width: 50px;
+    padding-inline: 20px;
+    padding-top: 30px;
+}
+
+.bg {
+    background-color: #5e591bad;
+}
+
+input {
+    width: 750px;
+    height: 50px;
+    border-radius: 100px;
+    margin-left:300px;
+  
+    font-size: 20px;
+    margin-bottom: 5px;
+
+    border-color: none;
+}
+
+
+h1 {
+text-align: center;
+font-size: 95px;
+color: rgb(195, 195, 5);
+font-family:  Tahoma, Verdana, sans-serif;
+}
+
+.circle1 {
+background-color: rgb(225, 84, 14);
+border: 3px;
+display: inline;
+border-radius: 200px;
+margin-left: 500px;
+text-decoration: solid;
+padding: 20px;
+  border: none;
+}
+
+.circle2 {
+    background-color: rgb(19, 234, 101);
+    display: inline; 
+    border-radius: 200px;
+   margin-left: 600px;
+      border: none;
+      padding: 20px;
+    
+     
+}
+
+.circle3 {
+    background-color: white; 
+    border-radius: 200px;
+    padding: 20px;
+      border: none;
+      margin-left: 700px;
+      
+    display: inline;
+}
